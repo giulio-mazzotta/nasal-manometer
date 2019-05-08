@@ -1,7 +1,10 @@
 ﻿Quantity,Manifacturer,Manufacturer Part Number,Description,Supplier,Supplier PN,Unit price GBP,Purchased on,Final/Prototype
 1,Honeywell Sensing and Productivity Solutions,NSCDRRN001PDUNV,Honeywell NSC differential pressure sensor 1 PSI,Mouser,785-NSCDRRN001PDUNV,17.33,,P
-2,Texas Instruments,INA333AIDGKR,Instrumentation Amplifier INA333,Mouser,595-INA333AIDGKR,3.20,,P
+2,Texas Instruments,INA333AIDGKR,Instrumentation Amplifier INA333 VSSOP-8,Mouser,595-INA333AIDGKR,3.20,,P
 1,Arduino,ABX00012,MKR Zero,Mouser,782-ABX00012,18.38,,P
 2,Texas Instruments,LM4140CCMX-1.2/NOPB,1.25 V Voltage References Precision Micropower Low Dropout Voltage Reference 8-SOIC 0 to 70,Mouser,926-LM4140CCMX12NOPB,2.42,,P
-2,Chip Quik Inc.,PA0042,VSSOP-8 to DIP-8 adapter,Mouser,910-PA0042,2.44,,P
+4,Texas Instruments,OPA378AIDBVR,Precision Buffer Amplifiers Lo Noise 50uV R-R Inp/Out,Mouser,595-OPA378AIDBVR,1.38,,P
+1,Chip Quik Inc.,PA0042,VSSOP-8 to DIP-8 adapter,Mouser,910-PA0042,2.44,,P
+1,Chip Quik Inc.,PA0086,SOT23-5 to DIP-6 Adapter,Mouser,910-PA0086,2.05,,P
+2,Aries Electronics,LCQT-SOIC8-8 ,SOIC8-8 to DIP-16 Adapter,Mouser,535-LCQT-SOIC8-8,2.36,,P
 1,DFRobot,FIT0096-C,400 tie point solderless breadboard - crystal ,Mouser,426-FIT0096-C ,2.63,,P
