@@ -131,3 +131,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# sym links
+sym-lib-table
