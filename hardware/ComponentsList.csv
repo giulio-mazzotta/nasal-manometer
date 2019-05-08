@@ -5,8 +5,12 @@
 2,Texas Instruments,LM4140CCM-4.1/NOPB,4.096 V Voltage References Precision Micropower Low Dropout Voltage Reference 8-SOIC 0 to 70,Mouser,926-LM4140CCM41NOPB ,2.88,,P
 2,AVX,TAP105K025CRS,Tantalum Capacitors - Solid Leaded 25V 1uF 10% ESR=10 Ohms,581-TAP105K025CRS,0.30,,P
 2,Vishay/Sprague,293D105X9035A2T,Tantalum Capacitors - Solid SMD 1uF 35volts 10% A case Molded ESR 7.5 Ohms,74-293D35V1.0A,0.18,,P
-4,Texas Instruments,OPA378AIDBVR,Precision Buffer Amplifiers Lo Noise 50uV R-R Inp/Out,Mouser,595-OPA378AIDBVR,1.38,,P
+1,Welwyn Components / TT Electronics,PCF-W0805LF-03-1503-B-P-LT,Thin Film Resistors - SMD 0805 150 Kohms 0.1% 25 PPM,66-PCFW0805LF031503B,0.11,,P
+1,Welwyn Components / TT Electronics,PCF-W0805LF-03-1003-B-P-LT,Thin Film Resistors - SMD 0805 100 Kohms 0.1% 25 PPM,66-PCF08C100KB,0.94,,P
+1,Welwyn Components / TT Electronics,RC55LF-D-100K-B-B,Metal Film Resistors - Through Hole 1/4W 100 Kohms 0.1%,66-RC55LF-D-100K,0.11,,P
+1,Welwyn Components / TT Electronics,RC55LF-D-150K-B-B,Metal Film Resistors - Through Hole 1/4W 150 Kohms 0.1%,66-RC55LF-D-150K,0.96,,P
+2,Texas Instruments,OPA378AIDBVR,Precision Buffer Amplifiers Lo Noise 50uV R-R Inp/Out SOT23-5,Mouser,595-OPA378AIDBVR,1.38,,P
 1,Chip Quik Inc.,PA0042,VSSOP-8 to DIP-8 adapter,Mouser,910-PA0042,2.44,,P
 1,Chip Quik Inc.,PA0086,SOT23-5 to DIP-6 Adapter,Mouser,910-PA0086,2.05,,P
-2,Aries Electronics,LCQT-SOIC8-8 ,SOIC8-8 to DIP-16 Adapter,Mouser,535-LCQT-SOIC8-8,2.36,,P
+1,Aries Electronics,LCQT-SOIC8-8 ,SOIC8-8 to DIP-16 Adapter,Mouser,535-LCQT-SOIC8-8,2.36,,P
 1,DFRobot,FIT0096-C,400 tie point solderless breadboard - crystal ,Mouser,426-FIT0096-C ,2.63,,P
