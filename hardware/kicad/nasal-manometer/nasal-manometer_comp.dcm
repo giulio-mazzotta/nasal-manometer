@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSCDRRN001PDUNV
+D Honeywell NSC differential pressure sensor 1 PSI
+F https://sensing.honeywell.com/honeywell-sensing-trustability-board-mount-pressure-sensors-tsc-nsc-datasheet-50064366-d-en.pdf
+$ENDCMP
+#
+$CMP OPA378xxDBV
+D Precision Amplifiers Lo Noise 50uV R-R Inp/Out SOT23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa378.pdf
+$ENDCMP
+#
+#End Doc Library
