@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP INA333
+D Micro-Power (50μA), Zerø-Drift, Rail-to-Rail Out Instrumentation Amplifier
+K instrumentation opamp
+F http://www.ti.com/lit/ds/symlink/ina333.pdf
+$ENDCMP
+#
 $CMP NSCDRRN001PDUNV
 D Honeywell NSC Board Mount Pressure Sensors UNAMP/UNCOMP DIP-8 Dual RAD 1PSI
 F https://sensing.honeywell.com/honeywell-sensing-trustability-board-mount-pressure-sensors-tsc-nsc-datasheet-50064366-d-en.pdf
